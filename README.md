@@ -2,7 +2,7 @@
 
 Repositório dedicado a dar exemplos de algoritmos. Principal linguagem utilizada: Python
 
-# Lista de 200 problemas de algoritmos para entrevistas técnicas
+# Lista de 200 problemas de algoritmos para estudo
 
 Possível classificação por dificuldade dos algoritmos fácil [1,31], Médio [32,104], Difícil [105,162], Muito difícil [162,200]
 

@@ -1,223 +1,224 @@
-# Algoritmos
+# Algorithms
 
-Repositório dedicado a dar exemplos de algoritmos. Principal linguagem utilizada: Python
+Repository dedicated to providing examples of algorithms. Primary programming language: Python.
 
-# Lista de 200 problemas de algoritmos para estudo
+# List of 200 Algorithm Problems for Study
 
-Possível classificação por dificuldade dos algoritmos fácil [1,31], Médio [32,104], Difícil [105,162], Muito difícil [162,200]
+Possible classification by difficulty: Easy [1–31], Medium [32–104], Hard [105–162], Very Hard [162–200].
 
-1. Soma de Dois Números
-2. Validar Subsequência
-3. Array de Quadrados Ordenado
-4. Vencedor do Torneio
-5. Troco Não Construível
-6. Verificar Palíndromo
-7. Cifra de César
-8. Primeiro Caractere Não Repetido
-9. N-ésimo Fibonacci
-10. Soma de Produto
-11. Busca Binária
-12. Encontrar os Três Maiores Números
+1. Two Number Sum
+2. Validate Subsequence
+3. Sorted Squared Array
+4. Tournament Winner
+5. Non-Constructible Change
+6. Palindrome Check
+7. Caesar Cipher Encryptor
+8. First Non-Repeating Character
+9. N-th Fibonacci
+10. Product Sum
+11. Binary Search
+12. Find Three Largest Numbers
 13. Bubble Sort
 14. Insertion Sort
-15. Tempo Mínimo de Espera
-16. Foto da Turma
-17. Bicicleta Tandem
-18. Array Monotônico
-19. Transpor Matriz
-20. Soma Acumulada
-21. Verificar Anagrama
-22. Inverter Palavras
-23. Caractere Mais Frequente
-24. Fatorial
+15. Minimum Waiting Time
+16. Class Photos
+17. Tandem Bicycle
+18. Monotonic Array
+19. Transpose Matrix
+20. Running Sum
+21. Valid Anagram
+22. Reverse Words
+23. Most Frequent Character
+24. Factorial
 25. Selection Sort
-26. Valor Mais Próximo em uma BST
-27. Profundidade dos Nós
-28. Busca em Profundidade
-29. Remover Duplicatas de Lista Encadeada
-30. Gerar Documento
-31. Potência de Dois
-32. Soma de Três Números
-33. Menor Diferença
-34. Mover Elemento para o Fim
-35. Array de Produtos
-36. Primeiro Valor Duplicado
-37. Mesclar Intervalos Sobrepostos
-38. Percurso em Espiral
-39. Pico Mais Longo
-40. Agrupar Anagramas
-41. Maior Substring sem Repetição
-42. Conjunto das Partes
-43. Permutações
+26. Find Closest Value in a BST
+27. Node Depths
+28. Depth-First Search
+29. Remove Duplicates from Linked List
+30. Generate Document
+31. Power of Two
+32. Three Number Sum
+33. Smallest Difference
+34. Move Element to End
+35. Array of Products
+36. First Duplicate Value
+37. Merge Overlapping Intervals
+38. Spiral Traverse
+39. Longest Peak
+40. Group Anagrams
+41. Longest Substring Without Duplication
+42. Powerset
+43. Permutations
 44. Quick Sort
 45. Merge Sort
-46. Validar BST
-47. Inverter Árvore Binária
-48. Somas dos Ramos
-49. Busca em Largura
-50. Inverter Lista Encadeada
-51. Algoritmo de Kadane
-52. Soma Máxima sem Adjacentes
-53. Número de Formas de Dar Troco
-54. Mínimo de Moedas para o Troco
-55. Maior Intervalo
-56. Ordenar Subarray
-57. Elemento Majoritário
-58. Verificar Ciclo Único
-59. Codificação por Repetição
-60. Buscar Intervalo
-61. Busca Binária Deslocada
+46. Validate BST
+47. Invert Binary Tree
+48. Branch Sums
+49. Breadth-First Search
+50. Reverse Linked List
+51. Kadane’s Algorithm
+52. Max Subset Sum with No Adjacent Elements
+53. Number of Ways to Make Change
+54. Minimum Number of Coins for Change
+55. Largest Range
+56. Subarray Sort
+57. Majority Element
+58. Single Cycle Check
+59. Run-Length Encoding
+60. Search for Range
+61. Shifted Binary Search
 62. Quickselect
-63. Ordenação de Três Números
-64. Tamanhos dos Rios
-65. Mesclar Listas Encadeadas
-66. Remover o K-ésimo Nó do Fim
-67. BST de Altura Mínima
-68. K-ésimo Maior Valor em uma BST
-69. Árvore Binária Balanceada
-70. Caracteres Mínimos para as Palavras
-71. Endereços IP Válidos
-72. Maior Substring Palíndroma
-73. Ciclo em Grafo
-74. Soma de Listas Encadeadas
-75. Percurso na Escada
-76. Número de Caminhos no Grid
-77. Números Faltantes
-78. Próximo Elemento Maior
-79. Cidade Inicial Válida
-80. Subarray de Soma Zero
+63. Three Number Sort
+64. River Sizes
+65. Merge Linked Lists
+66. Remove K-th Node from End
+67. Minimum Height BST
+68. K-th Largest Value in a BST
+69. Height-Balanced Binary Tree
+70. Minimum Characters for Words
+71. Valid IP Addresses
+72. Longest Palindromic Substring
+73. Cycle in Graph
+74. Sum of Linked Lists
+75. Staircase Traversal
+76. Number of Ways to Traverse a Grid
+77. Missing Numbers
+78. Next Greater Element
+79. Valid Starting City
+80. Zero-Sum Subarray
 81. Semordnilap
-82. Caracteres em Comum
-83. Inverter Palavras na String
-84. Parênteses Balanceados
-85. Uma Edição
-86. Atribuição de Tarefas
-87. Número Mínimo de Saltos
-88. Busca em Matriz Ordenada
-89. Mnemônicos de Número de Telefone
+82. Common Characters
+83. Reverse Words in String
+84. Balanced Brackets
+85. One Edit
+86. Task Assignment
+87. Minimum Number of Jumps
+88. Search in Sorted Matrix
+89. Phone Number Mnemonics
 90. Heap Sort
-91. Travessia de BST
-92. Travessia por Nível da Árvore
-93. Ancestral Comum Mais Novo
-94. Bicolorível
-95. Nó do Meio
-96. Vista do Pôr do Sol
-97. Melhor Assento
-98. Retângulo de Área Mínima
-99. Mesclar Arrays Ordenados
-100. Ordenar Pilha
-101. Gerar Tags Div
-102. Freelancing Ótimo
-103. Construção de Trie de Sufixos
-104. Notação Polonesa Reversa
-105. Distância de Levenshtein
-106. Subsequência Crescente de Soma Máxima
-107. Maior Subsequência Comum
-108. Diâmetro de Árvore Binária
-109. Problema da Mochila
-110. Soma de Quatro Números
-111. Recompensas Mínimas
-112. Área de Água
-113. Busca por Apartamento
-114. Conciliação de Agendas
-115. Casamento de Padrão
-116. Menor Substring que Contém
-117. Algoritmo de Knuth-Morris-Pratt
-118. Entrelaçamento de Strings
-119. Maior Subsequência Crescente
-120. Lucro Máximo com K Transações
-121. Empilhamento de Discos
-122. Números no Pi
-123. Submatriz de Soma Máxima
-124. Lançamentos de Dados
-125. Maior Cadeia de Strings
-126. Reconstruir BST
-127. BSTs Iguais
-128. Soma Máxima de Caminho em Árvore Binária
-129. Encontrar Nós a Distância K
-130. Remover Ilhas
-131. Mínimo de Passagens na Matriz
-132. Palíndromo em Lista Encadeada
-133. Deslocar Lista Encadeada
-134. Intercalar Lista Encadeada
-135. Travessia em Zigue-zague
-136. Sublinhar Substring
-137. Índice Igual ao Valor
+91. BST Traversal
+92. Binary Tree Level Order Traversal
+93. Youngest Common Ancestor
+94. Bipartite Graph
+95. Middle Node
+96. Sunset Views
+97. Best Seat
+98. Minimum Area Rectangle
+99. Merge Sorted Arrays
+100. Sort Stack
+101. Generate Div Tags
+102. Optimal Freelancing
+103. Suffix Trie Construction
+104. Reverse Polish Notation
+105. Levenshtein Distance
+106. Maximum-Sum Increasing Subsequence
+107. Longest Common Subsequence
+108. Binary Tree Diameter
+109. Knapsack Problem
+110. Four Number Sum
+111. Minimum Rewards
+112. Water Area
+113. Apartment Hunting
+114. Calendar Matching
+115. Pattern Matcher
+116. Smallest Substring Containing
+117. Knuth–Morris–Pratt Algorithm
+118. Interweaving Strings
+119. Longest Increasing Subsequence
+120. Maximum Profit with K Transactions
+121. Disk Stacking
+122. Numbers in Pi
+123. Maximum-Sum Submatrix
+124. Dice Throws
+125. Longest String Chain
+126. Reconstruct BST
+127. Same BSTs
+128. Maximum Path Sum in Binary Tree
+129. Find Nodes at Distance K
+130. Remove Islands
+131. Minimum Passes of Matrix
+132. Linked List Palindrome
+133. Shift Linked List
+134. Zip Linked List
+135. Zigzag Traverse
+136. Underscorify Substring
+137. Index Equals Value
 138. Radix Sort
-139. Doce e Salgado
-140. Recipiente Com Mais Água
-141. Maior Substring Balanceada
-142. Gerente Comum Mais Baixo
-143. Melhores Dígitos
-144. Consegue Pular
-145. Medições Ambíguas
-146. Maximizar Expressão
-147. Engarrafamento de Suco
-148. Mínimo de Cortes para Partição em Palíndromos
-149. Quebra de Palavras
-150. Formas de Decodificar
-151. Validar Três Nós
-152. Todas as Profundidades de Nós
-153. Comparar Travessia das Folhas
-154. Árvore Simétrica
-155. Dividir Árvore Binária
-156. Avaliar Árvore de Expressão
-157. Maior Ilha
-158. Algoritmo de Kruskal
-159. Busca de Palavra
-160. Troca de Nós
-161. Reorganizar Lista Encadeada
-162. Achatar Árvore Binária
-163. Maior Retângulo Sob a Silhueta
-164. Encurtar Caminho
-165. Contar Inversões
-166. Número de Topologias de Árvore Binária
-167. Rainhas Que Não Se Atacam
-168. Conexão de Cavalos
-169. Quadrado de Zeros
-170. Conexões de Aeroportos
-171. Tabuleiro de Boggle
-172. Algoritmo de Dijkstra
-173. Menores à Direita
-174. Busca de Múltiplas Strings
-175. Maior Substring Comum
-176. Estourar Balões
-177. Maior Quadrado
-178. Maior Retângulo
-179. Maior Subsequência Palindrômica
-180. Ordenação Topológica
-181. Algoritmo A*
-182. Grafo Dois-Arestas-Conexo
-183. Contar Quadrados
-184. Mania de Retângulos
-185. Resolver Sudoku
-186. Casamento de Expressão Regular
-187. Casamento com Curingas
-188. Escada de Palavras
-189. Algoritmo de Prim
-190. Soma por Combinações
-191. Máximo de Pontos em uma Reta
-192. Acúmulo de Água em 2D
-193. Máximo de Janela Deslizante
-194. Mediana de Dois Arrays Ordenados
-195. Mesclar K Listas Ordenadas
-196. Calculadora Básica
-197. Justificação de Texto
-198. Remover Parênteses Inválidos
-199. Maior Sequência Consecutiva
-200. Soma Máxima de Três Subarrays sem Sobreposição
+139. Sweet and Savory
+140. Container with Most Water
+141. Longest Balanced Substring
+142. Lowest Common Manager
+143. Best Digits
+144. Can Jump
+145. Ambiguous Measurements
+146. Maximize Expression
+147. Juice Bottling
+148. Palindrome Partitioning Minimum Cuts
+149. Word Break
+150. Number of Ways to Decode
+151. Validate Three Nodes
+152. All Kinds of Node Depths
+153. Compare Leaf Traversal
+154. Symmetrical Tree
+155. Split Binary Tree
+156. Evaluate Expression Tree
+157. Largest Island
+158. Kruskal’s Algorithm
+159. Word Search
+160. Node Swap
+161. Rearrange Linked List
+162. Flatten Binary Tree
+163. Largest Rectangle Under Skyline
+164. Shorten Path
+165. Count Inversions
+166. Number of Binary Tree Topologies
+167. Non-Attacking Queens
+168. Knight Connection
+169. Square of Zeroes
+170. Airport Connections
+171. Boggle Board
+172. Dijkstra’s Algorithm
+173. Right Smaller Than
+174. Multi-String Search
+175. Longest Common Substring
+176. Burst Balloons
+177. Maximal Square
+178. Largest Rectangle
+179. Longest Palindromic Subsequence
+180. Topological Sort
+181. A* Algorithm
+182. Two-Edge-Connected Graph
+183. Count Squares
+184. Rectangle Mania
+185. Solve Sudoku
+186. Regular Expression Matching
+187. Wildcard Matching
+188. Word Ladder
+189. Prim’s Algorithm
+190. Combination Sum
+191. Max Points on a Line
+192. Trapping Rain Water II
+193. Sliding Window Maximum
+194. Median of Two Sorted Arrays
+195. Merge K Sorted Lists
+196. Basic Calculator
+197. Text Justification
+198. Remove Invalid Parentheses
+199. Longest Consecutive Sequence
+200. Maximum Sum of Three Non-Overlapping Subarrays
 
 # Social Media
-Currículo Lattes: http://lattes.cnpq.br/6730251976463283  
-Webpage: https://ozsp12.github.io/  
-Substack: https://substack.com/@olsp1982  
-GitHub: https://github.com/ozsp12  
-ResearchGate: https://www.researchgate.net/profile/Osvaldo-Santos-Pereira  
-Google Scholar: https://scholar.google.com/citations?user=HIZp0X8AAAAJ&hl=en  
-ORCID: https://orcid.org/0000-0003-2231-517X  
-LinkedIn: https://www.linkedin.com/in/ozsp12  
-YouTube: https://www.youtube.com/@ozlsp12    
-TikTok: https://www.tiktok.com/@ozsp12  
-Patreon: https://www.patreon.com/ozsp12  
-Medium: https://medium.com/@ozsp12  
-X (Twitter): https://x.com/ozsp12 
+
+Lattes CV: http://lattes.cnpq.br/6730251976463283
+Webpage: https://ozsp12.github.io/
+Substack: https://substack.com/@olsp1982
+GitHub: https://github.com/ozsp12
+ResearchGate: https://www.researchgate.net/profile/Osvaldo-Santos-Pereira
+Google Scholar: https://scholar.google.com/citations?user=HIZp0X8AAAAJ&hl=en
+ORCID: https://orcid.org/0000-0003-2231-517X
+LinkedIn: https://www.linkedin.com/in/ozsp12
+YouTube: https://www.youtube.com/@ozlsp12
+TikTok: https://www.tiktok.com/@ozsp12
+Patreon: https://www.patreon.com/ozsp12
+Medium: https://medium.com/@ozsp12
+X (Twitter): https://x.com/ozsp12

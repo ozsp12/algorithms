@@ -1,6 +1,27 @@
 # Algorithm Study Roadmap
 
-This file preserves the complete enumerated list from the original repository README. The corrected difficulty bands are Easy [1–31], Medium [32–104], Hard [105–162], and Very Hard [163–200].
+This roadmap preserves the complete enumerated list from the original repository README while tracking the repository's implementation strategy. The corrected difficulty bands are Easy [1–31], Medium [32–104], Hard [105–162], and Very Hard [163–200].
+
+## Difficulty bands and current coverage
+
+| Band | Problem numbers | Current representative implementations |
+|---|---:|---|
+| Easy | 1–31 | Two Number Sum, Sorted Squared Array, Palindrome Check, Caesar Cipher, First Non-Repeating Character, Fibonacci, Binary Search, Bubble Sort, Insertion Sort, Running Sum, Valid Anagram, Reverse Words, Selection Sort, Depth-First Search |
+| Medium | 32–104 | Three Number Sum, Quick Sort, Merge Sort, Breadth-First Search, Kadane's Algorithm, Number of Ways to Make Change, Minimum Coins |
+| Hard | 105–162 | Levenshtein Distance |
+| Very Hard | 163–200 | Dijkstra's Algorithm |
+
+The original boundary overlap at problem 162 has been corrected: Hard ends at 162 and Very Hard begins at 163. Difficulty is only a study aid; algorithmic category, correctness, and complexity are more informative.
+
+## Implementation priorities
+
+1. Complete the remaining array, string, linked-list, tree, and graph exercises.
+2. Add explicit data-structure models for linked lists, binary trees, tries, heaps, and disjoint sets.
+3. Add property-based tests for sorting and graph invariants.
+4. Add benchmarks only after correctness tests and API contracts are stable.
+5. Document alternative implementations when they expose meaningful time-space tradeoffs.
+
+## Complete enumerated list
 
 1. Two Number Sum
 2. Validate Subsequence

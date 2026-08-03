@@ -13,32 +13,6 @@ Documented reference implementations of classical algorithms in Python. The repo
 | Graphs | breadth-first search, depth-first search, Dijkstra's algorithm |
 | Dynamic programming | Fibonacci, change counting, minimum coins, Levenshtein distance |
 
-## Installation
-
-Python 3.10 or later is required.
-
-```bash
-git clone https://github.com/ozsp12/algorithms.git
-cd algorithms
-python -m pip install -e ".[dev]"
-python -m pytest
-```
-
-## Example
-
-```python
-from algorithms import binary_search, dijkstra, merge_sort
-
-merge_sort([8, 3, 5, 1])
-# [1, 3, 5, 8]
-
-binary_search([1, 3, 5, 8], 5)
-# 2
-
-dijkstra({"A": {"B": 4, "C": 1}, "C": {"B": 2}, "B": {}}, "A")
-# {"A": 0.0, "B": 3.0, "C": 1.0}
-```
-
 ## Study roadmap
 
 The original collection of 200 study problems is preserved in [ROADMAP.md](ROADMAP.md). Difficulty bands are treated as guidance rather than an intrinsic property of a problem; implementation status should be established by the presence of documented code and tests.
